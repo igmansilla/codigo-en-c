@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651067684 source:c:\users\fsi03\documents\c++\listasenc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listas.h"
+
+1651068085 source:c:\users\fsi03\documents\c++\listasenc\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"listas.h"
+
+1651067615 c:\users\fsi03\documents\c++\listasenc\listas.h
+

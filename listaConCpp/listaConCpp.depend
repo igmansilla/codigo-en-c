@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652713997 source:c:\users\fsi03\documents\c++\listaconcpp\main.cpp
+	<iostream>
+	"lista.h"
+
+1652710633 c:\users\fsi03\documents\c++\listaconcpp\lista.h
+
+1652713763 source:c:\users\fsi03\documents\c++\listaconcpp\lista.cpp
+	<iostream>
+	"lista.h"
+
